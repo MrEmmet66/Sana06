@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PeopleClassLibrary
 {
-    internal class Student : People
+    public class Student : People
     {
         public Student(string name, string surname, DateTime birthDate, int course, string group, string faculty, string university) 
             : base(name, surname, birthDate)
