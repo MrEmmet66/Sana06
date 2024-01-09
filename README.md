@@ -1,5 +1,5 @@
 # Sana06
 
-ПІБ: Глушко Олег Артурович
+РџР†Р‘: Р“Р»СѓС€РєРѕ РћР»РµРі РђСЂС‚СѓСЂРѕРІРёС‡
 
 E-Mail: ipz233_goa@student.ztu.edu.ua / lorrenc7@gmail.com
