@@ -16,6 +16,11 @@
         public string Surname { get; set; }
         public DateTime BirthDate { get; set; }
 
+        public virtual string ShowInfo()
+        {
+            return $"Ім'я: {Name}\nПрізвище: {Surname}\nДата народження: {BirthDate}";
+        }
+
 
     }
 }
