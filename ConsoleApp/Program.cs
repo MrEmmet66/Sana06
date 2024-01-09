@@ -10,6 +10,7 @@ namespace ConsoleApp
             foreach (People people in peoples)
             {
                 System.Console.WriteLine(people.ShowInfo());
+                System.Console.WriteLine("------------------------------");
             }
         }
 
